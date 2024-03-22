@@ -242,9 +242,9 @@ A strand of hair runs through the entire hotel, stretching from one end to the o
 Parts connected together can also represent the transfer of information, energy or consciousness.
  
 
-+hair photos
+hair photos
 
-Real hair? A giant version of pores + hair?
+Real hair? A giant version of pores  hair?
 
  Buy wig glue and long thread
 
@@ -268,7 +268,7 @@ These creations are full of reflections and explorations of profound themes of s
 
  
 
-👆Miniature fountain sculpture (side work)
+Miniature fountain sculpture (side work)
 
 yes or no
 
@@ -412,7 +412,7 @@ falsity. But there is another world beyond this, layers that can never be peeled
 
 This concept can be interpreted as a contrast between the boundaries between the real world and the fictional world and between individual perception and external observation.
 
-Let’s discuss. The following are further interpretations of this concept and suggestions for the creation of specific works.
+Let's discuss. The following are further interpretations of this concept and suggestions for the creation of specific works.
 
 **Interpretation and Thoughts**:
 
@@ -436,7 +436,7 @@ accomplish.
 
 Buttons can be pressed to activate specific sound or light effects, or to trigger movements on silicone puppets.
 
-3. **External Observer’s View**: Provide a space for external observers to watch the internal experiencer, through glass walls or surveillance
+3. **External Observer's View**: Provide a space for external observers to watch the internal experiencer, through glass walls or surveillance
 
 Camera to achieve. External observers will be able to see the internal experiencers interacting with the props, as well as their imaginations and emotional reactions.
 
@@ -450,9 +450,9 @@ Visual effects, projection art, unusual light and sound effects, etc.
 
 Use reflective, reflective materials or unlimited mirrors to create this effect.
 
-6. **Guide participants’ thinking**: Add reflective elements such as books, quotes, paintings, or text to the space to stimulate participation.
+6. **Guide participants' thinking**: Add reflective elements such as books, quotes, paintings, or text to the space to stimulate participation.
 
-The participant’s in-depth thinking on the topic.
+The participant's in-depth thinking on the topic.
 
 7. **Culture and Historical References**: Consider incorporating some Chinese cultural or historical elements into your work to tie in with your background and
 
@@ -534,7 +534,7 @@ The words that were added to the blower can only be given out when delivering th
 
 Some people can't even tell that it's a snake. It's so stupid. The snake angrily said that it would take several years for someone like me to be able to listen.
 
-I don’t understand what it’s talking about. I’m so shocked that my tail was transformed into a latch and it will itch every time I plug it in.
+I don't understand what it's talking about. I'm so shocked that my tail was transformed into a latch and it will itch every time I plug it in.
  
 
 🚿 
@@ -567,7 +567,7 @@ Incorporate hotel wear into daily life
 
 Wear bathrobes and slippers to pick up and drop off children. Meet students in class and work.
 
-Incorporate everyone’s feedback
+Incorporate everyone's feedback
 
 Like a losing string
 
@@ -591,7 +591,7 @@ and way of being. Hair penetrating all space may represent the ubiquity of thoug
 
 The change. The state of closed eyes may represent an experience of relaxation, immersion, or isolation.
 
-4. Bring the hotel into daily life: This point of view emphasizes that the hotel is a special space that can change people’s status.
+4. Bring the hotel into daily life: This point of view emphasizes that the hotel is a special space that can change people's status.
 
 and experience. Bringing the feel of a hotel into everyday life may mean finding elements of relaxation, comfort or luxury in everyday life.
 
