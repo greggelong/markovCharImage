@@ -53,6 +53,7 @@ function setup() {
   sel.changed(makeLM);
   button = createButton("GENERATE");
   button.style("font-size", "30px");
+  button.parent("buttonholder")
   button.mouseReleased(doit);
   nholder = createP("n = " + sel.option());
   pholder = createP("OUTPUT");
@@ -163,7 +164,7 @@ function markovit() {
   //createP(result2)
   //createP(result3)
   //createP("MARKOV GENERATED CHILDHOOD HALLUCINATION "+ result.length)
-  pholder.html(result3);
+  //pholder.html(result3);
   
   makeimg(result3)
   if (read.checked()) foo.speak(result3);
@@ -178,11 +179,14 @@ async function makeimg(r){
   const seed = 42; // Each seed generates a new image variation
 
   const imageUrl = `https://pollinations.ai/p/${encodeURIComponent(prompt)}?width=${width}&height=${height}&seed=${seed}&nologo=true`;
- await createImg(
+  let img = await createImg(
     imageUrl,
     prompt
   );
-  createP(r)
+  img.parent("sketch-holder")
+
+   let showPrompt = createP(r)
+   showPrompt.parent("sketch-holder")
   
 }
 
